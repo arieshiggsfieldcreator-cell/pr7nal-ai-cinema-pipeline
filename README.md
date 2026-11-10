@@ -18,3 +18,5 @@ git clone [https://github.com/arieshiggsfieldcreator-cell/pr7nal-ai-cinema-pipel
 
 # Run the acting utility
 python acting_performance_engine.py
+📜 License
+Distributed under the MIT License
